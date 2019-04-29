@@ -190,6 +190,7 @@ a:hover {
 .caption {
 	width:90%;
 	padding:20px 0;
+  display: grid;
   grid-template-columns: 1fr;
 }
 .mobile {
