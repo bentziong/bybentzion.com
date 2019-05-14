@@ -147,8 +147,8 @@ a:hover {
 	z-index: 9999;
 	cursor:url(../images/cursor-w.png), auto;
 	cursor: -webkit-image-set(
-		url('../images/cursor-w.png') 1x,
-  url('../images/cursor-w-hi.png') 2x
+		url('../images/arrowleft.png') 1x,
+  url('../images/arrowleft.png') 2x
   ), auto;
 }
 .cycle-next {
@@ -161,8 +161,8 @@ a:hover {
 	z-index: 9999;
     cursor:url(../images/cursor-e.png), auto;
 	cursor: -webkit-image-set(
-  url('../images/cursor-e.png') 1x,
-  url('../images/cursor-e-hi.png') 2x
+  url('../images/arrowright.png') 1x,
+  url('../images/arrowright.png') 2x
   ), auto;
 }
 
