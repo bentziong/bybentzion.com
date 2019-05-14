@@ -145,10 +145,10 @@ a:hover {
 	top: 0;
 	position: absolute;
 	z-index: 9999;
-	cursor:url(../images/arrowleft.png), auto;
+	cursor:url(../images/cursorleft.png), auto;
 	cursor: -webkit-image-set(
-		url('../images/arrowleft.png') 1x,
-  url('../images/arrowleft.png') 2x
+		url('../images/cursorleft.png') 1x,
+  url('../images/cursorleft.png') 2x
   ), auto;
 }
 .cycle-next {
@@ -159,10 +159,10 @@ a:hover {
 	top: 0;
 	position: absolute;
 	z-index: 9999;
-    cursor:url(../images/arrowright.png), auto;
+    cursor:url(../images/cursorright.png), auto;
 	cursor: -webkit-image-set(
-  url('../images/arrowright.png') 1x,
-  url('../images/arrowright.png') 2x
+  url('../images/cursorright.png') 1x,
+  url('../images/cursorright.png') 2x
   ), auto;
 }
 
