@@ -19,7 +19,6 @@ font-stretch: normal;
 .italic {
   font-family: 'Atlas Grotesk';
   font-style: italic;
-  letter-spacing: .75px;
 }
 
 body {
